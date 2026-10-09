@@ -1,1 +1,6 @@
-
+9.10.2026 Prompt
+Statt Tabellenwerte (wie die z-Tabelle) abzulesen oder komplizierte Integrale 
+einzugeben, lässt sich jede Verteilung mit vier grundlegenden Stammfunktionen 
+(d-, p-, q-, r-) lösen
+Automatische Berechnung des z- oder t-Faktors und direkte Berechnung der 
+Intervallgrenzen für den Mittelwert
