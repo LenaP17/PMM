@@ -1,4 +1,4 @@
-16.10.2026
+Schulübung, am 16.10.2026
 choose(6, 0:6)
  640/3125
  pbinom(2, size = 5, prob = 0.2)
