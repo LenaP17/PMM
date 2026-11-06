@@ -1,3 +1,6 @@
+Hausübung, am 6.11.2026
 1.read_excel oder ähnlich recherchieren. Ein excel file generieren (oder von irgendwoher kopieren)
 und in ene R Datenstruktur laden.
 2. write_csv: excel als csv schreiben, Ordner "output/"
+
+Ergebnisse: Unique: 10, Min length: 8, Max length: 10, Empty: 0
