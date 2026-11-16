@@ -1,2 +1,4 @@
 library(tidyverse)
-data <- 
+
+data <- read_csv("data/Umsatz.CSV")
+
